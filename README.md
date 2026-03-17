@@ -9,7 +9,7 @@ The analysis investigates whether international students show higher rates of de
 ## Dataset
 
 **File:** `students.csv`  
-**Rows:** 286 students (international + domestic)
+**Observations:** 286 students (international + domestic)
 
 ### Key Columns
 
